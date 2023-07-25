@@ -69,6 +69,5 @@ Returns:
 1. Open one of the sample data sets in the `data` directory (e.g., `data/family0.csv`) to see the family information.
 2. Run the program with appropriate inputs to make inferences about the gene distribution and trait expression.
 
-**Note**: Do not modify anything else in `heredity.py` other than the functions you are asked to implement.
 
 Let's make gene inferences with the Bayesian Network model!
